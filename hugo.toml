@@ -1,4 +1,4 @@
-baseURL = "https://ry0.org/"
+baseURL = "{{ getenv "HUGO_BASEURL" | default "/" }}"
 languageCode = "en-us"
 title = "Ry O"
 theme = "PaperMod"
