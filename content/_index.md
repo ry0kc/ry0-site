@@ -1,6 +1,6 @@
 ---
 title: "Ry O Portfolio"
-draft: true
+draft: false
 ---
 
 Website. Under development.  

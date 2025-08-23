@@ -12,12 +12,12 @@ menu:
   main:
     - identifier: home
       name: "Home"
-      url: "/"
+      url: /
       weight: 1
 
     - identifier: blog
       name: "Blog"
-      url: "/posts/"
+      url: /posts/
       weight: 2
 
     - identifier: projects

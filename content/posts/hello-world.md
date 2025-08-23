@@ -1,7 +1,7 @@
 ---
 title: "Boom"
 date: 2025-08-20
-draft: true
+draft: false
 authors: ["ry0"]
 ---
 
