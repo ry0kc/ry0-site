@@ -1,5 +1,5 @@
-baseURL : "{{ getenv "HUGO_BASEURL" | default "/" }}"
-languageCode : "en-us"
+baseURL : {{ getenv "HUGO_BASEURL" | default "/" }}
+languageCode : en-us
 title : "Ry O"
 theme : "PaperMod"
 enableRobotsTXT : true
