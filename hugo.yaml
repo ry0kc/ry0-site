@@ -30,6 +30,7 @@ params:
   showShareButtons: true
   defaultTheme: "system"
   ShowFooter: true
+  webmasterEmail: "webmaster@ry0.org"
   # Uncomment if you want social links to show
   # social:
   #   github: "https://github.com/ry0kc"
