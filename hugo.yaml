@@ -1,6 +1,6 @@
 baseURL: https://ry0.org/
 languageCode: en-us
-title: "Ry O"
+title: "RyO"
 theme: "PaperMod"
 enableRobotsTXT: true
 
@@ -15,8 +15,8 @@ menu:
       url: /
       weight: 1
 
-    - identifier: blog
-      name: "Blog"
+    - identifier: log
+      name: "log"
       url: /posts/
       weight: 2
 
@@ -31,6 +31,7 @@ params:
   defaultTheme: "system"
   ShowFooter: true
   webmasterEmail: "webmaster@ry0.org"
+  customCSS: ["/css/custom.css"]
   # Uncomment if you want social links to show
   # social:
   #   github: "https://github.com/ry0kc"

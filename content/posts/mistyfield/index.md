@@ -1,5 +1,5 @@
 ---
-title: "Add image"
+title: "Misty Landscape"
 date: 2025-08-22
 draft: false
 authors: ["ry0"]
