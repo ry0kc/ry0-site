@@ -1,0 +1,10 @@
+.webmaster-link {
+    color: #007bff; /* A nice blue color */
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+.webmaster-link:hover {
+    color: #0056b3; /* A slightly darker blue on hover */
+    text-decoration: underline;
+}
