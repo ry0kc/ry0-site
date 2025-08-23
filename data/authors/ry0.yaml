@@ -1,4 +1,4 @@
-name = "Ry O"
-bio = "Tech tinkerer, problem solver."
-email = "raozmc@gmail.com"
-github = "https://github.com/ry0kc"
+name : "Ry O"
+bio : "Tech tinkerer, problem solver."
+email : "raozmc@gmail.com"
+github : "https://github.com/ry0kc"
