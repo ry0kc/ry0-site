@@ -31,7 +31,8 @@ params:
   defaultTheme: "system"
   ShowFooter: true
   webmasterEmail: "webmaster@ry0.org"
-  customCSS: ["/css/custom.css"]
+  disableThemeInjector: true
+  # customCSS: ["/css/custom.css"]
   # Uncomment if you want social links to show
   # social:
   #   github: "https://github.com/ry0kc"
